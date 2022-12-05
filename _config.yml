@@ -1,9 +1,9 @@
 # Site settings
 title_left    : "Orkun"
-title_right   : "Ergün" # default: ""
-description   : "Home"
+title_right   : " Ergün" # default: ""
+description   : " Home"
 keywords      : "Blog"
-url           : orkunergun.github.io # site url
+url           : https://orkunergun.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
