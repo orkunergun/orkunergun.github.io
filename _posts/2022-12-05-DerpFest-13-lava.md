@@ -23,4 +23,4 @@ DerpFest is a beautiful pixel rom. There are some features limited to Pixel devi
 
 **Downloads :**
 
- * [DerpFest](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-13.x/crDroid/)
+ * [DerpFest](https://ay.live/derp)
