@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Actually u dont need anything about me O_o
