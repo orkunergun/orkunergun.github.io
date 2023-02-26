@@ -6,7 +6,7 @@ description: "crDroidAndroid v9.x for Redmi 9/Poco M2 (lancelot)"
 keywords: "crDroidAndroid v9.x for Redmi 9/Poco M2 (lancelot)"
 ---
 
-crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
+crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today.
 
 **First time installation:**
 
