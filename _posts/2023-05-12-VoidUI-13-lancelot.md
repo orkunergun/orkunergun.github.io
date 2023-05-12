@@ -28,8 +28,12 @@ VoidUI is an PixelExperience Plus based AOSP ROM, with Google apps included and 
  * GApps is included and debloated
 
 
-**Downloads :**
+**Downloads:**
 
  * [VoidUI](https://devuploads.com/users/orkunergun/2820/VoidUI)
 
  * [Recovery](https://mirrorbits.lineageos.org/full/lancelot/20230510/recovery.img)
+
+ * [Support Group](https://t.me/orkunsupportgroup)
+
+ * [KernelSU Kernels](https://t.me/OrkunCI)
